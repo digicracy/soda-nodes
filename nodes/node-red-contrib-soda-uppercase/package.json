@@ -1,0 +1,13 @@
+{
+    "name"         : "node-red-contrib-soda-uppercase",
+    "version"      : "0.0.1",
+    "description"  : "A uppercase node for node-red",
+    "dependencies": {
+    },
+    "keywords": [ "soda" ],
+    "node-red"     : {
+        "nodes": {
+            "uppercase": "uppercase/uppercase.js"
+        }
+    }
+}
